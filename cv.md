@@ -1,4 +1,4 @@
-![myphoto](/img/photo.jpg)
+![myphoto](/photo.png)
 # Sagnaev Beksultan
 ## Junior Frontend developer
 **********
