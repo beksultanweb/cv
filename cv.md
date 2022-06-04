@@ -22,9 +22,13 @@ I also worked on different websites in our companies. Then I fell in love with W
 * VS Code, Figma and Web design basics
 ***
 **My experience in Web Dev**
+
 [Food Delivery](https://eatandfit.kz/)
+
 [Corporate site](https://aartsport.kz/)
+
 [Small game and Poster generator](https://chooseyourpoco.kz/game/)
+
 [Landing](https://ladancecomplex.kz/)
 ***
 **Courses**
